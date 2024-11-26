@@ -10,7 +10,7 @@ Consider switching to [pyannoteAI](https://www.pyannote.ai) for better and faste
 </p>
 
 ## TL;DR
-
+## By Mudassir Alam
 1. Install [`pyannote.audio`](https://github.com/pyannote/pyannote-audio) with `pip install pyannote.audio`
 2. Accept [`pyannote/segmentation-3.0`](https://hf.co/pyannote/segmentation-3.0) user conditions
 3. Accept [`pyannote/speaker-diarization-3.1`](https://hf.co/pyannote/speaker-diarization-3.1) user conditions
